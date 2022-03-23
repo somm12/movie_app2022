@@ -2,6 +2,7 @@ import { useParams } from "react-router-dom";
 import Movie from "../components/Movie";
 import { useEffect, useState } from "react";
 function Detail() {
+  console.log("checking..");
   const [loading, setLoading] = useState(true);
   const [movie, setMovies] = useState([]);
   const { id } = useParams();
