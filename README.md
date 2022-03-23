@@ -8,7 +8,7 @@ This project shows movie info such genres, titles, short descriptions with using
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/63543733/159603365-7c9f50a5-3d1a-4593-8818-f55a29da76ab.gif)
 
-## Concept
+## Main Concept
 
 useState, useEffect, useParams
 
