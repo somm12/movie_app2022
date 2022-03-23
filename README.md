@@ -6,7 +6,7 @@ This project shows movie info such genres, titles, short descriptions with using
 
 ## Preview
 
-https://user-images.githubusercontent.com/63543733/159602492-ef6acf44-e681-447d-9c01-56f6046a6b45.mov
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/63543733/159603365-7c9f50a5-3d1a-4593-8818-f55a29da76ab.gif)
 
 ## Concept
 
